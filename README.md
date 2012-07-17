@@ -1,5 +1,5 @@
 # FakeTime 
-(This fork updates instructions for mac, look below for instructions from [dileepbapat])
+(This fork updates instructions for mac, look below for instructions from [dileepbapat](https://github.com/dileepbapat))
 
 # FOR Mac:
 
@@ -32,7 +32,7 @@
 	~ java -cp . Test
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-README FROM [dileepbapat]: Faketime is to support testing time based features. It allows you to change time to simulate test scenarios.
+README FROM [dileepbapat](https://github.com/dileepbapat): Faketime is to support testing time based features. It allows you to change time to simulate test scenarios.
 
 This is fake time utility, that [Manohar](https://github.com/akula1001) developed. It was using remote python server for time source. 
 
